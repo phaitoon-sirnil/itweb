@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this a text file in master
+=======
+this is a text file in develop
+>>>>>>> develop
